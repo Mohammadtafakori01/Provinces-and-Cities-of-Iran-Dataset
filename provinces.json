@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "name": "آذربایجان شرقی",
+    "country_id": 1,
+    "en_name": "East Azerbaijan",
+    "lat": 37.903573,
+    "lon": 46.268210
+  },
+  {
+    "id": 2,
+    "name": "آذربایجان غربی",
+    "country_id": 1,
+    "en_name": "West Azerbaijan",
+    "lat": 37.455022,
+    "lon": 45.070312
+  },
+  {
+    "id": 3,
+    "name": "اردبیل",
+    "country_id": 1,
+    "en_name": "Ardabil",
+    "lat": 38.485327,
+    "lon": 47.891120
+  },
+  {
+    "id": 4,
+    "name": "اصفهان",
+    "country_id": 1,
+    "en_name": "Isfahan",
+    "lat": 32.654627,
+    "lon": 51.667982
+  },
+  {
+    "id": 5,
+    "name": "البرز",
+    "country_id": 1,
+    "en_name": "Alborz",
+    "lat": 35.996046,
+    "lon": 50.928924
+  },
+  {
+    "id": 6,
+    "name": "ایلام",
+    "country_id": 1,
+    "en_name": "Ilam",
+    "lat": 33.636866,
+    "lon": 46.422678
+  },
+  {
+    "id": 7,
+    "name": "بوشهر",
+    "country_id": 1,
+    "en_name": "Bushehr",
+    "lat": 28.923383,
+    "lon": 50.820314
+  },
+  {
+    "id": 8,
+    "name": "تهران",
+    "country_id": 1,
+    "en_name": "Tehran",
+    "lat": 35.689198,
+    "lon": 51.388974
+  },
+  {
+    "id": 9,
+    "name": "چهارمحال و بختیاری",
+    "country_id": 1,
+    "en_name": "Chaharmahal and Bakhtiari",
+    "lat": 31.961104,
+    "lon": 50.845632
+  },
+  {
+    "id": 10,
+    "name": "خراسان جنوبی",
+    "country_id": 1,
+    "en_name": "South Khorasan",
+    "lat": 32.517564,
+    "lon": 59.104175
+  },
+  {
+    "id": 11,
+    "name": "خراسان رضوی",
+    "country_id": 1,
+    "en_name": "Razavi Khorasan",
+    "lat": 35.102025,
+    "lon": 59.104175
+  },
+  {
+    "id": 12,
+    "name": "خراسان شمالی",
+    "country_id": 1,
+    "en_name": "North Khorasan",
+    "lat": 37.471035,
+    "lon": 57.101319
+  },
+  {
+    "id": 13,
+    "name": "خوزستان",
+    "country_id": 1,
+    "en_name": "Khuzestan",
+    "lat": 31.327319,
+    "lon": 48.694551
+  },
+  {
+    "id": 14,
+    "name": "زنجان",
+    "country_id": 1,
+    "en_name": "Zanjan",
+    "lat": 36.501818,
+    "lon": 48.398818
+  },
+  {
+    "id": 15,
+    "name": "سمنان",
+    "country_id": 1,
+    "en_name": "Semnan",
+    "lat": 35.225558,
+    "lon": 54.434213
+  },
+  {
+    "id": 16,
+    "name": "سیستان و بلوچستان",
+    "country_id": 1,
+    "en_name": "Sistan and Baluchestan",
+    "lat": 27.529991,
+    "lon": 60.582068
+  },
+  {
+    "id": 17,
+    "name": "فارس",
+    "country_id": 1,
+    "en_name": "Fars",
+    "lat": 29.104381,
+    "lon": 53.045894
+  },
+  {
+    "id": 18,
+    "name": "قزوین",
+    "country_id": 1,
+    "en_name": "Qazvin",
+    "lat": 36.088131,
+    "lon": 49.854726
+  },
+  {
+    "id": 19,
+    "name": "قم",
+    "country_id": 1,
+    "en_name": "Qom",
+    "lat": 34.641567,
+    "lon": 50.874600
+  },
+  {
+    "id": 20,
+    "name": "کردستان",
+    "country_id": 1,
+    "en_name": "Kurdistan",
+    "lat": 35.955357,
+    "lon": 47.136212
+  },
+  {
+    "id": 21,
+    "name": "کرمان",
+    "country_id": 1,
+    "en_name": "Kerman",
+    "lat": 30.283937,
+    "lon": 57.083362
+  },
+  {
+    "id": 22,
+    "name": "کرمانشاه",
+    "country_id": 1,
+    "en_name": "Kermanshah",
+    "lat": 34.314167,
+    "lon": 47.065279
+  },
+  {
+    "id": 23,
+    "name": "کهگیلویه و بویراحمد",
+    "country_id": 1,
+    "en_name": "Kohgiluyeh and Boyer-Ahmad",
+    "lat": 30.842444,
+    "lon": 50.244236
+  },
+  {
+    "id": 24,
+    "name": "گلستان",
+    "country_id": 1,
+    "en_name": "Golestan",
+    "lat": 37.289812,
+    "lon": 55.137583
+  },
+  {
+    "id": 25,
+    "name": "لرستان",
+    "country_id": 1,
+    "en_name": "Lorestan",
+    "lat": 33.581839,
+    "lon": 48.398818
+  },
+  {
+    "id": 26,
+    "name": "گیلان",
+    "country_id": 1,
+    "en_name": "Gilan",
+    "lat": 37.280834,
+    "lon": 49.583187
+  },
+  {
+    "id": 27,
+    "name": "مازندران",
+    "country_id": 1,
+    "en_name": "Mazandaran",
+    "lat": 36.226239,
+    "lon": 52.531860
+  },
+  {
+    "id": 28,
+    "name": "مرکزی",
+    "country_id": 1,
+    "en_name": "Markazi",
+    "lat": 34.080032,
+    "lon": 49.701717
+  },
+  {
+    "id": 29,
+    "name": "هرمزگان",
+    "country_id": 1,
+    "en_name": "Hormozgan",
+    "lat": 27.138723,
+    "lon": 56.191423
+  },
+  {
+    "id": 30,
+    "name": "همدان",
+    "country_id": 1,
+    "en_name": "Hamadan",
+    "lat": 34.760799,
+    "lon": 48.398818
+  },
+  {
+    "id": 31,
+    "name": "یزد",
+    "country_id": 1,
+    "en_name": "Yazd",
+    "lat": 31.897423,
+    "lon": 54.367759
+  }
+]
